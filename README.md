@@ -1,5 +1,5 @@
 # DataStructures IN C
-*Stack
+* Stack
 
 # Execute 
 make 
