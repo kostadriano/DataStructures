@@ -1,0 +1,7 @@
+# ignore this
+
+queue
+./directory
+queue.o
+/vscode
+.vscode
