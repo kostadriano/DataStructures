@@ -1,0 +1,5 @@
+# Ignore this
+
+linkedList.o
+linkedList
+.vscode
