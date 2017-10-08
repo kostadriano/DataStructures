@@ -3,6 +3,9 @@
 * Queue
 * Lists
   * LinkedList
+  * DoubleLinkedList
+  * CircularLinkedList
+  * DoubleCircularLinkedList
 # Execute 
 make 
 
