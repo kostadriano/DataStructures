@@ -1,2 +1,7 @@
-# DataStructures
-TO DO: This
+# DataStructures IN C
+* Stack
+
+# Execute 
+make 
+
+
